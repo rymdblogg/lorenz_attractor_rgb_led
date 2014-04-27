@@ -1,7 +1,7 @@
 
 // Pin out for my setup
 // This was tested on an Arduino Uno with RGB LED in outputs 9-12
-// (Beware of beginner misstakes)
+// (Beware of beginner mistakes)
 int red_LED = 11;
 int green_LED = 10;
 int blue_LED = 9;
